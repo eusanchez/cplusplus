@@ -1,2 +1,4 @@
 # cplusplus
-Learning C++, in one week, wish me luck.
+Learning C++.
+
+Codes with annotations as comments.
